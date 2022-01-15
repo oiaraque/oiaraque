@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1 ><strong> Hi There👋👋  I'm Oscar Araque, a Full Stack Developer ... Let's code ⚡ </strong></h1>
+<hr>
 
-<!--
-**oiaraque/oiaraque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p><center><i>"the impossible just takes a little bit more"</i></center></p>
+<hr>
 
-Here are some ideas to get you started:
+<h3>I love to code, create things, solve problems and take on challenges</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  🔭 <strong>Open to work</strong> <br>
+  🌱 I’m currently learning <strong>Python and Typescript</strong><br> 
+  📫 How to reach me: <strong>oiaraque@gmail.com<strong> <br> 
+  😎 Other stuff: CTF's..
+<hr>
+  
+<h3>Languajes and Tools</h3>
+  
+  <img src="/home/blu/Documentos/OI/img/cv/tools.png"/>
+  
