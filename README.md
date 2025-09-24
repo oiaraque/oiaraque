@@ -1,4 +1,4 @@
-<h1 align="center"><strong> Hi There👋👋  I'm Oscar Araque, a Full Stack Developer ... <br> Let's code ⚡ </strong></h1>
+<h1 align="center"><strong> Hi There👋👋  I'm Oscar Araque, a QA Automation Engineer ⚡ ... <br></strong></h1>
 <hr>
 
 <p align="center"><i>"The impossible just takes a little bit more"</i></p>
